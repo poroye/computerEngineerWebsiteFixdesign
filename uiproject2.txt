@@ -1,0 +1,117 @@
+font 
+-on header page = kanit
+-หัวข้อ = kanit semi bold(ใช้บ่ได้)
+-เนื้อความ (ที่ text เยอะๆ มันสบายตา) = bai jamjuree
+
+header (alway on top ลอยตามไปด้วยยเวลาเลื่อนลง)
+-ce logo         pic on desktop , CE KMITL (font = segoe ui light)
+-curriculum      
+-subject
+-project
+-faculty
+-webboard
+-admission
+
+
+bottomer? 
+-web สถาบัน,วิศวะ,สำนักทะเบียน,about us  (ชิดขวา -->)Copyright © group two
+
+MAIN
+-add event left of login slide show when click with stage(3pic on desktop)
+-login still the same
+-remove brainless right banner 
+-fix announcement,notice,hall of fame ui กดได้
+-add tech new(content from blognone)!!
+
+CURRICULUM
+-ตัดกิจกรรมทิ้งเลย
+-เปลี่ยนเป็นก้อนๆของแต่ละไฟล์เลย มีการแบ่ง checkbox เลือกเอาแค่ ต่อเนื่อง,ปกติได้(ทำเยอะหน่อย)
+1.หลัก60 2.ต่อเนื่อง60 3.หลัก54 4.หลัก52 5.ทั่วไป52 6.หลัก46 7.เทียบรายวิชา46 || 8.หลัก60 9. หลัก54 10.หลัก52
+*ปริญญาตรี *บัณฑิตศึกษา *ปกติ *ต่อเนื่อง
+0 0 0 0 1.-10. แยกหมวดหมู่เรียบร้อย
+1 0 0 0 1.-7.
+
+SUBJECT (เลือกวิชา)
+-ก็อปมาทั้งดุ้นเลย เป็นก้อนๆมี BG แสดงเวลาที่เรียน,ห้องที่เรียน ชื่อวิชา(เน้น) จารที่่สอน+รูปจาร รหัสวิชา
+-เลือกปีการศึกษาได้
+-เลือกภาคการเรียนได้
+-เลือกชั้นปีได้
+sort by name
+/ Comp Org & Assembly Language
+/ Computer Architecture
+/ Computer Programming
+/ Data Communications
+/ Data structure and algorithm
+/ Elementary Differential Equations and Linear Algebra
+/ Internetworking Standards and Technologies
+/ Object Oriented Programmin
+/ Operating System
+/ Project 1
+
+SUBJECT (แต่ละวิชา) ทำแค่วิชาเดียวนะ ขกทำเยอะ
+-มีการแสดงรูปจาร+ชื่อ
+-รหัสวิชา
+-การให้คะแนน midterm: , final: , project1: , project2: ไรงี้ให้ชัดเจน
+-text ref มีลิ้งไปซื้อหรือโหลดหนังสือได้(รูปปลอมๆ)
+-มีข้อมูลรายวิชาคร่าวๆ
+-มีปุ่มย้อนกลับไปเลือกsubject
+-แต่ละ file ไม่มีปุ่มดาวโหลดแล้วกดชื่อโหลดเลย
+-แต่ละไฟล์เป็นก้อนๆมีรายละเอียดคร่าวๆให้บอกว่าใช้ใน 
+    lecture วันไหน หรือ lab เลือกได้จะไห้แสดงแค่ lab,lecture(เยอะสาส)
+-ทำหน้าการดาวโหลดแบบปลอมๆไว้ด้วย
+-มีการแสดงขนาดไฟล์
+
+แลปหรือlecture  ขนาดไฟล์
+ชื่อไฟล์
+-------------
+ใช้วันไหน
+
+basic concepts of data communication 
+OSI model
+signal characteristics
+encoding and modulating
+transmission of digital data
+communication interface device
+communication media
+data multiplexing
+high sped digital access
+error detection and correction
+data link flow control
+switching
+point-to-point protocol (PPP)
+multiple access
+
+แบบฝึกหัดออนไลน์:5%
+งานที่มอบหมาย:15%
+กิจกรรมในห้องเรียน & การบ้าน:10%
+Lab Attendance:5%
+Lab Submission:5%
+Lab Final Exam:10%
+สอบกลางภาค (อัตนัย):25%
+สอบปลายภาค (อัตนัย):25%
+
+PROJECT
+-เลือกปี กับ search ยังมีอยู่
+-tag ทำให้กดได้สักอันใหญ่ๆ(เยอะ)
+-เป็นก้อนๆแสดงชื่อไทยอย่างเดียว+tag+ปุ่มดาวโหลดเล็กๆ+รูปcoolๆ เป็น bg ไว้กดไปอ่านรายละเอียด
+
+FACULTY
+-แก้เป็นให้มีtextเลยไม่ต้องชี้แล้ว
+
+WEBBOARD
+-กดเข้าไปเลือกหมวด สนทนา,announcement,notice,hall of fame,tech new เป็นก้อนๆขอสวยๆ 
+
+admission
+-แก้รูป
+
+about us
+-map เหมือนเดิม
+-ตัดข้างซ้ายออกหรือแค่ติดต่อเรา อาจเพิ่ม เมล facebook
+
+======================================================================================
+
+ประกาศจากหน้าหลัก,hall of fame(single)
+-แก้ ui (ยังไงดี)
+
+more hall of fame,announcement,notice
+-แก้ ui (ยังไงดี)
